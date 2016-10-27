@@ -10,6 +10,7 @@ package test;
  * @author MyPC
  */
 public class Pig {
+//aaa
     private String kind;
 
     public Pig(String kind) {
