@@ -7,7 +7,7 @@ package test;
 
 /**
  *
- * @author MyPC
+ * @author MyPC heo
  */
 public class Pig {
 //aaa
